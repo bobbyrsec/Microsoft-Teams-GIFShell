@@ -6,11 +6,7 @@ There are a few prerequisites required to replicate the attack chain above:
 
 * The GIFShell Python script, which should be executed on the attacker’s machine
 
-***See Attached*** 
-
 * The GIFShell Powershell stager, executed on the victim’s machine
-
-***See Attached*** 
 
 * Two Microsoft Azure Organizations or Tenants. The attacker organization or tenant should have at least 2 users, and the victim organization should have at least 1 user. This is for testing the Microsoft Teams Work Edition
 * Two Microsoft Teams users for personal use. This is for testing the Microsoft Teams Home Edition
