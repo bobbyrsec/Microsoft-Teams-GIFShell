@@ -6,9 +6,9 @@ https://www.bleepingcomputer.com/news/security/gifshell-attack-creates-reverse-s
 
 Technical Blogs:
 
-https://medium.com/me/stats/post/1618c4e64ed7
+https://medium.com/@bobbyrsec/gifshell-covert-attack-chain-and-c2-utilizing-microsoft-teams-gifs-1618c4e64ed7
 
-https://medium.com/me/stats/post/458aea1826c5
+https://medium.com/@bobbyrsec/microsoft-teams-attachment-spoofing-and-lack-of-permissions-enforcement-leads-to-rce-via-ntlm-458aea1826c5
 
 
 **Replication Steps:**
