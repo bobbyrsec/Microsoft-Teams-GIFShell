@@ -1,5 +1,16 @@
 # Microsoft-Teams-GIFShell
 
+Press:
+
+https://www.bleepingcomputer.com/news/security/gifshell-attack-creates-reverse-shell-using-microsoft-teams-gifs/
+
+Technical Blogs:
+
+https://medium.com/me/stats/post/1618c4e64ed7
+
+https://medium.com/me/stats/post/458aea1826c5
+
+
 **Replication Steps:**
 
 There are a few prerequisites required to replicate the attack chain above:
